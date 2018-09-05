@@ -23,10 +23,13 @@ Each type of ant takes a different action and requires a different amount of foo
 
 usage: ants.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
 
-optional arguments:a
+optional arguments:
   -h, --help     show this help message and exit
+  
   -d DIFFICULTY  sets difficulty of game (test/easy/medium/hard/insane)
+  
   -w, --water    loads a full layout with water
+  
   --food FOOD    number of food to start with when testing
   
   This game was inspired by PopCaps' game Plants Vs. Zombies, and the UC Berkeley CS 61A Ants VS. Somebees project.
