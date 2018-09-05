@@ -4,7 +4,7 @@ Ants VS. Bees, a tower defense game where you must populate your colony with ant
 
 A game of Ants Vs. Bees consists of a series of turns. In each turn, new bees may enter the ant colony. Then, new ants are placed. Finally, all insects (ants, then bees) take individual actions: bees sting ants, and ants throw leaves at bees. The game ends either when a bee reaches the ant queen (you lose), or the entire bee flotilla has been vanquished (you win).
 
-The Colony. The colony consists of several places that are chained together. The exit of each Place leads to another Place.
+## The Colony. The colony consists of several places that are chained together. The exit of each Place leads to another Place.
 
 Placing Ants. There are two constraints that limit ant production. Placing an ant uses up some amount of the colony's food, a different amount for each type of ant. Also, only one ant can occupy each Place.
 
