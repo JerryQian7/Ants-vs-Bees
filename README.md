@@ -21,14 +21,23 @@ Each type of ant takes a different action and requires a different amount of foo
 
 ## Running the game
 
+Open Terminal and navigate to where Ants-vs-Bees is saved.
+
 ### To start a text-based game, run:
 
 ```
 python3 ant.py
 ```
 
-### You may customize your game with the following inputs:
+### To start a graphical game, run:
+```
+python3 gui.py
+```
 
+
+
+### You may customize your game with the following inputs:
+```
 usage: ants.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
 
 optional arguments:
@@ -40,7 +49,9 @@ optional arguments:
   -w, --water    loads a full layout with water
   
   --food FOOD    number of food to start with when testing
+ 
+ ```
   
-  This game was inspired by PopCaps' game Plants Vs. Zombies, and the UC Berkeley CS 61A Ants VS. Somebees project.
+This game was inspired by PopCaps' game Plants Vs. Zombies, and the UC Berkeley CS 61A Ants VS. Somebees project.
 
 
