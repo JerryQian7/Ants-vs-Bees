@@ -19,6 +19,14 @@ When it is time to act, a bee either moves to the exit of its current Place if n
 
 Each type of ant takes a different action and requires a different amount of food to place. The two most basic ant types are the HarvesterAnt, which adds one food to the colony during each turn, and the ThrowerAnt, which throws a leaf at a bee each turn.
 
+## Running the game
+
+### To start a text-based game, run:
+
+```
+python3 ant.py
+```
+
 ### You may customize your game with the following inputs:
 
 usage: ants.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
