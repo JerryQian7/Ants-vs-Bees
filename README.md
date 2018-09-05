@@ -23,7 +23,7 @@ Each type of ant takes a different action and requires a different amount of foo
 
 usage: ants.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
 
-optional arguments:
+optional arguments:a
   -h, --help     show this help message and exit
   -d DIFFICULTY  sets difficulty of game (test/easy/medium/hard/insane)
   -w, --water    loads a full layout with water
